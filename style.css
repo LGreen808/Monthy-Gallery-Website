@@ -1,5 +1,5 @@
 head {
-    background-color: black;
+    background-color: teal;
 }
 
 
@@ -8,5 +8,10 @@ head {
 
 
 body {
-    background-color: yellow;
+    background-color: lightskyblue;
+     
+}
+
+.card {
+    font-family: 
 }
