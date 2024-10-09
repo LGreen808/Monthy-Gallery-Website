@@ -17,9 +17,13 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.button {
-    background-color: lightgreen;
+img.dropdown-item {
+    width: 5px;
+    height: 5px;
+    margin-left: 20px;
 }
+
+
 
 
 
