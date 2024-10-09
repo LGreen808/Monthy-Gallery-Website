@@ -1,12 +1,3 @@
-head {
-    background-color: teal;
-}
-
-
-
-
-
-
 body {
     background-color: lightskyblue;
      
@@ -22,6 +13,19 @@ img.dropdown-item {
     height: 5px;
     margin-left: 20px;
 }
+
+.card-1 {
+    background-color: teal;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    padding: 6px;
+    margin-right: -1px;
+    margin-left: -1px;
+/***** Fix The Margin and Padding With This Card*****/
+}
+
+
+
 
 
 
