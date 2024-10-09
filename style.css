@@ -1,3 +1,11 @@
+header {
+    background-color: lightgreen;
+}
+
+
+
+
+
 body {
     background-color: lightskyblue;
      
@@ -11,7 +19,7 @@ body {
 img.dropdown-item {
     width: 5px;
     height: 5px;
-    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .card-1 {
@@ -22,6 +30,10 @@ img.dropdown-item {
     margin-right: -1px;
     margin-left: -1px;
 /***** Fix The Margin and Padding With This Card*****/
+}
+
+.row d-flex mb-3 {
+background-color: green;
 }
 
 
