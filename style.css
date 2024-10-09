@@ -33,6 +33,7 @@ img.dropdown-item {
 }
 
 .btn {
-   background-color: lightgreen;
+   background-color: green;
    text-decoration: black;
+   bg-hover: lightgreen;
 }
