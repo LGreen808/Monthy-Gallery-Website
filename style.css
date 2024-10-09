@@ -2,14 +2,10 @@ header {
     background-color: lightgreen;
 }
 
-
-
-
-
-body {
+main {
     background-color: lightskyblue;
-     
 }
+
 
 .card {
     background-color: white;
@@ -29,11 +25,11 @@ img.dropdown-item {
     padding: 6px;
     margin-right: -1px;
     margin-left: -1px;
-/***** Fix The Margin and Padding With This Card*****/
+/***** Padding fixed in index.html but keep the margin and padding above as well *****/
 }
 
 .btn {
    background-color: green;
    text-decoration: black;
-   bg-hover: lightgreen;
+   
 }
