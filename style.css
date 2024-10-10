@@ -39,8 +39,7 @@ img.dropdown-item {
 
 .btn {
    background-color: green;
+   border-color: green;
 }
 
-.btn:hover {
-    
-}
+
