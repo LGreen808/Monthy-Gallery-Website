@@ -1,35 +1,39 @@
 header {
     background-color: lightgreen;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "tiller", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 body {
     background-color: lightskyblue;
+   font-family: "tiller", sans-serif;
+   font-weight: 400;
+   font-style: normal;
 }
-
-
-
 
 
 main {
     background-color: lightskyblue;
+    font-family: "tiller", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 
 .card {
     background-color: white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "tiller", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
-img.dropdown-item {
-    width: 5px;
-    height: 5px;
-    margin-right: 20px;
-}
 
 .card-1 {
     background-color: teal;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "tiller", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-weight: bold;
     padding: 6px;
     margin-right: -1px;
@@ -40,6 +44,9 @@ img.dropdown-item {
 .btn {
    background-color: green;
    border-color: green;
+   font-family: "tiller", sans-serif;
+   font-weight: 400;
+   font-style: normal;
 }
 
 
