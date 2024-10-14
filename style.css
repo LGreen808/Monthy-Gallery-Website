@@ -6,6 +6,10 @@ header {
     font-style: normal;
 }
 
+header hover {
+    background-color: darkgreen; 
+}
+
 body {
     background-color: lightskyblue;
    font-family: "tiller", sans-serif;
@@ -47,10 +51,6 @@ main {
     margin-right: -1px;
     margin-left: -1px;
 /***** Padding fixed in index.html but keep the margin and padding above as well *****/
-}
-
-.card-1:hover {
-    font-weight: bold;
 }
 
 
