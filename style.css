@@ -37,9 +37,6 @@ main {
     from {color: black;}
     to {color: darkblue;}
 }
-
-
-
 .card-1 {
     background-color: teal;
     font-family: "tiller", sans-serif;
@@ -52,8 +49,12 @@ main {
 /***** Padding fixed in index.html but keep the margin and padding above as well *****/
 }
 
+.card-1:hover {
+    font-weight: bold;
+}
 
-/***** Button Styles *****/
+
+/***** Buttons Styles *****/
 .btn {
    background-color: green;
    border-color: green;
@@ -62,7 +63,7 @@ main {
    font-style: normal;
    color: black;
 }
-
+/****Buttons Hover ****/
 .btn:hover {
         background-color: lightgreen;
         color: black;
