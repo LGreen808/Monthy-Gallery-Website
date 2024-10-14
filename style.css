@@ -38,7 +38,7 @@ main {
     font-style: normal;
     animation-name: cards; 
     animation-duration: 30s;
-    color: black;
+    text-decoration: black;
     animation-iteration-count: 1;
 }
 /*** Cards Animation ***/   
