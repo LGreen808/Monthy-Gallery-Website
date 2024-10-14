@@ -5,8 +5,8 @@ header {
     font-weight: 400;
     font-style: normal;
 }
-
-header hover {
+/***Header Hover ***/
+header:hover {
     background-color: darkgreen; 
 }
 
