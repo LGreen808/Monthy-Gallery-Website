@@ -37,8 +37,9 @@ main {
     font-weight: 400;
     font-style: normal;
     animation-name: cards; 
-    animation-duration: 10s;
+    animation-duration: 30s;
     color: black;
+    animation-iteration-count: 1;
 }
     
 @keyframes cards {
