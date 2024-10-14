@@ -38,13 +38,13 @@ main {
     font-style: normal;
     animation-name: cards; 
     animation-duration: 30s;
-    text-decoration: black;
+    color: black;
     animation-iteration-count: 1;
 }
 /*** Cards Animation ***/   
 @keyframes cards {
-    from {text-decoration: black;}
-    to {text-decoration: darkblue;}
+    from {color: black;}
+    to {color: darkblue;}
 }
 
 
