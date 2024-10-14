@@ -21,12 +21,25 @@ main {
     font-style: normal;
 }
 
+
+
+
+
+
+
+
+
+
 /*** Card Styles ***/
 .card {
     background-color: white;
     font-family: "tiller", sans-serif;
     font-weight: 400;
     font-style: normal;
+@keyframes {
+    from {font-style: normal;}
+    to {font-style: bold;}
+}
 }
 
 
